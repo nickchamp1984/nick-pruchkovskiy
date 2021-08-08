@@ -1,1 +1,3 @@
-# nick-pruchkovskiy
+Hillel QA automation 
+Small project by Nick Pruchkovskiy 
+
